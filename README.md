@@ -11,7 +11,7 @@
 
 ---
 
-## Demo online: [Link](frabjous-concha-05af60.netlify.app)
+## Demo online: frabjous-concha-05af60.netlify.app
 
 ---
 
